@@ -256,11 +256,13 @@ The dashboard is designed to support executive-level performance monitoring and 
 
 ---
 
-# Dataset
+## Data Source
 
-Global Superstore Dataset.
+The analysis uses the Global Superstore dataset obtained from Kaggle.
 
-The dataset contains transactional information covering orders, customers, products, markets, sales, discounts, profit, shipping costs, and shipping dates.
+Source: [Global Superstore Dataset](https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset)
+
+The dataset contains approximately 51,000 order-line records covering sales, customers, products, geography, shipping, discounts, and profitability across multiple markets and regions.
 
 ---
 
