@@ -60,10 +60,10 @@ Examines profit contribution by category and sub-category, discount levels, ship
 
 - **Technology generates the highest total profit**, making it the strongest category from a profitability perspective.
 - Within sub-categories, **Copiers generate the highest profit contribution**, followed by Phones and Bookcases.
-- **APAC has the highest shipping cost**, consistent with its position as the largest market by sales.
+- **APAC has the highest shipping cost**, among the markets, highlighting the need to monitor logistics efficiency alongside revenue performance.
 - Total shipping costs are approximately **$1.35M**, representing a significant operational cost relative to total sales.
 - Average shipping time is approximately **3.97 days**.
-- The Discount vs Profit analysis does not show a clear positive relationship between higher discounts and higher profit, suggesting that aggressive discounting does not necessarily improve profitability.
+- Higher discount levels do not show a clear positive relationship with profit in the observed data, suggesting that aggressive discounting does not necessarily improve profitability.
 
 ---
 
@@ -89,7 +89,7 @@ This creates an opportunity to strengthen customer retention, personalized offer
 
 ---
 
-## 3. APAC is a major growth market but also has a significant cost burden
+## 3. APAC is the largest market by sales but also carries a significant cost burden
 
 APAC generates the highest sales among the markets shown in the dashboard and also has the highest shipping cost.
 
