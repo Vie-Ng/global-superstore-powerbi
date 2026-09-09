@@ -22,19 +22,19 @@ The analysis focuses on three key areas:
 
 Provides a high-level overview of revenue, profitability, customer segments, regional performance, and product contribution.
 
-![Executive Overview](screenshots/Executive-overview.png)
+![Executive Overview](Executive%20overview.png)
 
 ### 2. Sales & Customer Performance
 
 Analyzes monthly sales trends, market performance, customer contribution, customer segments, and the relationship between sales and profit across product categories.
 
-![Sales & Customer Performance](screenshots/Sales-customer-performance.png)
+![Sales Customer Performance](Sales%20customer%20performance.png)
 
 ### 3. Profitability & Operations
 
 Examines profit contribution by category and sub-category, discount levels, shipping costs across markets, and lower-performing products.
 
-![Profitability & Operations](screenshots/Profitability-operations.png)
+![Profitability & Operations](Profitability%20operations.png)
 
 ---
 
