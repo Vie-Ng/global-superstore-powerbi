@@ -28,7 +28,7 @@ Provides a high-level overview of revenue, profitability, customer segments, reg
 
 Analyzes monthly sales trends, market performance, customer contribution, customer segments, and the relationship between sales and profit across product categories.
 
-![Sales Customer Performance](Sales%20customer%20performance.png)
+![Sales Customer Performance](Sales%20customer%20perfomance.png)
 
 ### 3. Profitability & Operations
 
