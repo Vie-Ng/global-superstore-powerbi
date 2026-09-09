@@ -38,6 +38,25 @@ Examines profit contribution by category and sub-category, discount levels, ship
 
 ---
 
+## Data Model
+
+The project uses a star-schema data model designed to separate transactional data from descriptive dimensions.
+
+### Fact Table
+- FactSales
+
+### Dimension Tables
+- DimDate
+- DimProduct
+- DimCustomer
+- DimGeography
+
+This structure supports consistent filtering, time-based analysis, customer analysis, product analysis, and geographical performance analysis.
+
+![Data Model](Data-model.png)
+
+---
+
 # Key Insights
 
 ## Executive Overview
